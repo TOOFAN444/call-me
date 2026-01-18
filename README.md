@@ -1,3 +1,5 @@
+9205012165
+nasib
 # CallMe
 
 **Minimal plugin that lets Claude Code call you on the phone.**
@@ -89,7 +91,8 @@ Add these to `~/.claude/settings.json` (recommended) or export them in your shel
 | `CALLME_PHONE_PROVIDER` | `telnyx` (default) or `twilio` |
 | `CALLME_PHONE_ACCOUNT_SID` | Telnyx Connection ID or Twilio Account SID |
 | `CALLME_PHONE_AUTH_TOKEN` | Telnyx API Key or Twilio Auth Token |
-| `CALLME_PHONE_NUMBER` | Phone number Claude calls from (E.164 format) |
+| 9205012165
+`CALLME_PHONE_NUMBER` | Phone number Claude calls from (E.164 format) |
 | `CALLME_USER_PHONE_NUMBER` | Your phone number to receive calls |
 | `CALLME_OPENAI_API_KEY` | OpenAI API key (for TTS and realtime STT) |
 | `CALLME_NGROK_AUTHTOKEN` | ngrok auth token for webhook tunneling |
